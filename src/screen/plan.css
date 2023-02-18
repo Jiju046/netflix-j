@@ -1,0 +1,28 @@
+.profilescreen__subs{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 1.5rem;
+
+
+   
+   
+}
+.profilescreen__subs > h6{
+    justify-content: space-around;
+
+}
+
+
+.profilescreen__subscribe > button{
+    padding: 8px 15px;
+
+    font-size: 0.8rem;
+    color: #fff;
+    background-color: #e50914;
+    font-weight: 500;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-top: 1rem;
+    
+}
